@@ -1,0 +1,186 @@
+{
+  "__canvas": "da-ai-canvas",
+  "version": 2,
+  "nodes": [
+    {
+      "id": "node-1787642613649-21",
+      "kind": "text",
+      "title": "文本节点",
+      "x": -476.1322367081627,
+      "y": -213.75605790926613,
+      "width": 234,
+      "height": 338,
+      "meta": {
+        "content": "#### **Shot 1 (镜号 1) 提示词：\n**时间段：** 00:00 - 00:02\n    > 超高清，超现实主义，微距特写。一串挂满晶莹水珠的鲜红荔枝。其中一个荔枝外壳突然裂开，露出一只闭眼熟睡的迷你纯白小猫。随后周围的荔枝也同步裂开，露出更多沉睡的小猫。明亮的自然光，高饱和度，红白对比，电影感光影，慢动作，慢速后拉镜头。\n\n#### **Shot 2 (镜号 2) 提示词：\n **时间段：** 00:02 - 00:05\n    > 唯美治愈风，微距特写，固定镜头。画面中央的迷你白猫缓缓睁开清澈的眼睛。一只温柔的人类手指轻轻抚摸它的头。周围荔枝里的小猫也陆续苏醒，眨着眼睛好奇地环顾四周。柔和的侧光，突出猫咪绒毛和荔枝表皮的纹理质感，温馨的色调。\n\n#### **Shot 3 (镜号 3) 提示词：\n**时间段：** 00:05 - 00:11\n    > 灵动活泼，特写镜头，微小推镜头。聚焦在中央的迷你白猫。它张开粉嫩的小嘴，发出无声的鸣叫（喵），身体微微扭动，极其灵动可爱。背景是晶莹剔透的水珠和鲜艳的荔枝壳。温暖通透的光线，充满朝气，超高画质，细节丰富。\n\n#### **Shot 4 (镜号 4) 提示词：**\n**时间段：** 00:11 - 00:15\n> **温馨治愈，全景收尾，慢速后拉镜头。** 镜头缓缓向后拉开，展现整串挂在绿叶枝头上的鲜红荔枝。几只迷你白猫在荔枝壳里惬意地伸懒腰、打哈欠，有的靠在一起，画面充满梦幻感。温暖柔和的金色夕阳（黄金时刻）穿过树叶缝隙，洒下斑驳的光影。微风拂过，枝头轻轻摇曳。随着镜头继续拉远，画面逐渐柔焦（Bokeh效果），在宁静治愈的氛围中自然淡出（Fade out），完美收尾。",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmor0dsvp0000iudg2ufwy1kp"
+        },
+        "manualSize": true,
+        "prompt": "",
+        "promptHidden": false,
+        "generationStatus": "completed"
+      }
+    },
+    {
+      "id": "node-1787644008865-24",
+      "kind": "text",
+      "title": "文本节点",
+      "x": 18.12093340238033,
+      "y": -190.49507290996684,
+      "width": 308,
+      "height": 344,
+      "meta": {
+        "content": "基于您提供的图片（银灰色长毛虎斑缅因猫）以及将“荔枝”替换为“葡萄”的要求，精简后的视频提示词模板如下：\n\n#### **Shot 1 (镜号 1) 提示词：**\n**时间段：** 00:00 - 00:02\n> 超高清微距特写。一串挂满水珠的饱满紫葡萄。其中一颗葡萄皮裂开，露出闭眼熟睡的迷你银灰色长毛虎斑小猫。周围葡萄同步裂开，露出更多沉睡的银灰小猫。自然光，冷暖对比，慢动作后拉镜头。\n\n#### **Shot 2 (镜号 2) 提示词：**\n**时间段：** 00:02 - 00:05\n> 治愈系微距固定镜头。中央的银灰虎斑小猫睁开清澈眼睛。人类手指温柔抚摸其头部。周围葡萄里的小猫陆续苏醒，好奇环顾。柔和侧光突出猫咪银色长毛与葡萄表皮质感。\n\n#### **Shot 3 (镜号 3) 提示词：**\n**时间段：** 00:05 - 00:11\n> 特写微推镜头。聚焦银灰长毛小猫，它张嘴无声鸣叫，微微扭动。背景为晶莹水珠与紫葡萄皮。温暖通透的光线，尽显银灰色绒毛细节。\n\n#### **Shot 4 (镜号 4) 提示词：**\n**时间段：** 00:11 - 00:15\n> 慢速后拉全景。展现绿叶枝头的整串紫葡萄，数只银灰小猫在葡萄中伸懒腰、依偎，充满梦幻感。金色夕阳穿过叶缝，微风吹拂。画面逐渐柔焦并自然淡出。",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmor0dsvp0000iudg2ufwy1kp"
+        },
+        "prompt": "根据我给的提示词模板和@图片1 。生成适配@图片1 的提示词模板，改变小猫外貌特征。将提示词中的荔枝改为葡萄。",
+        "promptHidden": false,
+        "generationStatus": "completed",
+        "manualSize": true
+      }
+    },
+    {
+      "id": "node-1787644127425-27",
+      "kind": "video",
+      "title": "视频节点",
+      "x": 441.2509867320625,
+      "y": -343.07309553189634,
+      "width": 139,
+      "height": 272,
+      "meta": {
+        "dimensions": "720 x 1280",
+        "content": "双击画布添加的新节点",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmqw5vte00990x5s36svwvxlo",
+          "params": {
+            "ratio": "9:16",
+            "duration": "15",
+            "resolution": "720p"
+          }
+        },
+        "generationStatus": "completed",
+        "mediaStatus": "ready",
+        "mediaProgress": 100,
+        "objectFit": "contain",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmr3emk2t00e14meku4rhbqyf/gen_1787647130136_07j7fierq8xa.mp4",
+        "originalMediaUrl": "https://cdn.quantv.com/canvas/cmr3emk2t00e14meku4rhbqyf/gen_1787647130136_07j7fierq8xa.mp4",
+        "mediaStage": "completed"
+      }
+    },
+    {
+      "id": "node-1787645246773-33",
+      "kind": "image",
+      "title": "0b10853761e8195894d39cf51734a74d.jpg",
+      "x": -507.6874594842673,
+      "y": -487.9984217239753,
+      "width": 244,
+      "height": 170,
+      "meta": {
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmr3emk2t00e14meku4rhbqyf/image_1787645246819_6diglg1jqwp.jpg",
+        "objectFit": "contain",
+        "imageTone": "soft",
+        "dimensions": "1760 x 1080"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-1787644011775-26",
+      "from": "node-1787642613649-21",
+      "to": "node-1787644008865-24"
+    },
+    {
+      "id": "edge-1787644130102-29",
+      "from": "node-1787644008865-24",
+      "to": "node-1787644127425-27"
+    },
+    {
+      "id": "edge-1787645249709-34",
+      "from": "node-1787645246773-33",
+      "to": "node-1787644008865-24"
+    },
+    {
+      "id": "edge-1787645292300-35",
+      "from": "node-1787645246773-33",
+      "to": "node-1787644127425-27"
+    }
+  ],
+  "stickers": [
+    {
+      "id": "sticker-1787644754232-30",
+      "x": -863.2868493553311,
+      "y": -524.010607601618,
+      "width": 251.51776793421323,
+      "height": 130.30679140543145,
+      "targetType": "free",
+      "title": "便签",
+      "html": "<p>宠物图片可更改（小猫，小狗，仓鼠等均可）</p><p>上传的宠物能看到正脸，毛色清晰</p>",
+      "style": {
+        "theme": "yellow",
+        "opacity": 0.98,
+        "radius": 16
+      },
+      "zIndex": 10,
+      "locked": false,
+      "collapsed": false
+    },
+    {
+      "id": "sticker-1787644824462-31",
+      "x": -864.2163968045448,
+      "y": -125.65433927930246,
+      "width": 228.28669840269038,
+      "height": 110.10586137802031,
+      "targetType": "free",
+      "title": "便签",
+      "html": "<p>原版提示词，不用更改</p>",
+      "style": {
+        "theme": "yellow",
+        "opacity": 0.98,
+        "radius": 16
+      },
+      "zIndex": 10,
+      "locked": false,
+      "collapsed": false
+    },
+    {
+      "id": "sticker-1787644866031-32",
+      "x": 108.85648880936753,
+      "y": -549.4711841981795,
+      "width": 252.52781443558376,
+      "height": 120.2063263917259,
+      "targetType": "free",
+      "title": "便签",
+      "html": "<p>在提示词里更换宠物形象及水果，生成新的视频提示词</p>",
+      "style": {
+        "theme": "yellow",
+        "opacity": 0.98,
+        "radius": 16
+      },
+      "zIndex": 10,
+      "locked": false,
+      "collapsed": false
+    },
+    {
+      "id": "sticker-1787647190683-38",
+      "x": 398.2640381354532,
+      "y": -537.0042158038324,
+      "width": 165.8577809971347,
+      "height": 81.88735433709974,
+      "targetType": "free",
+      "title": "便签",
+      "html": "<p>用mini生成就可以</p>",
+      "style": {
+        "theme": "yellow",
+        "opacity": 0.98,
+        "radius": 16
+      },
+      "zIndex": 10,
+      "locked": false,
+      "collapsed": false
+    }
+  ]
+}

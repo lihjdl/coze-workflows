@@ -1,0 +1,234 @@
+{
+  "__canvas": "da-ai-canvas",
+  "version": 2,
+  "nodes": [
+    {
+      "id": "node-1782452382539",
+      "kind": "image",
+      "title": "图片节点",
+      "x": 388,
+      "y": 349,
+      "width": 138,
+      "height": 262,
+      "meta": {
+        "dimensions": "936 x 1681",
+        "content": "双击画布添加的新节点",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmroohfag2msfrykqadspaznz",
+          "functionId": ""
+        },
+        "prompt": "参考@图片1 ，生成电商带货模特，保留参考图@图片1 拍摄构图、肢体动作，全新原创陌生亚洲女生，原创柔和淡颜，自然原生皮肤，细腻肤质，干净清透淡妆，松弛自然带货表情，温柔治愈神态，标准电商直播间柔光，柔和均匀打光，浅色系简约背景，高清商业摄影，浅景深，产品清晰突出，画面干净高级，真实人像质感，无磨皮过度，自然肌理，服装版型贴合身形，氛围感干净，无水印，无文字，无logo，真人实拍质感，专业商品带货图；",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/gen_1782454567908_yucvrbmym4e.png",
+        "objectFit": "contain"
+      }
+    },
+    {
+      "id": "node-1782454342858-0",
+      "kind": "image",
+      "title": "图片节点",
+      "x": 168,
+      "y": 349,
+      "width": 137,
+      "height": 262,
+      "meta": {
+        "dimensions": "704 x 1268",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/img_1782454341813_awy90bqh3qu.png",
+        "objectFit": "contain",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmroohfag2msfrykqadspaznz"
+        }
+      }
+    },
+    {
+      "id": "node-1782458521209",
+      "kind": "image",
+      "title": "图片节点",
+      "x": 384.59214241581145,
+      "y": 645.8223625384258,
+      "width": 136,
+      "height": 262,
+      "meta": {
+        "dimensions": "696 x 1262",
+        "content": "双击画布添加的新节点",
+        "imageTone": "soft",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/img_1782458556615_8sy2au18tu.png",
+        "objectFit": "contain",
+        "settings": {
+          "modelId": "cmroohfag2msfrykqadspaznz"
+        }
+      }
+    },
+    {
+      "id": "node-1782458578068",
+      "kind": "image",
+      "title": "图片节点",
+      "x": 337.7195817749588,
+      "y": 972.8310893690019,
+      "width": 223,
+      "height": 262,
+      "meta": {
+        "dimensions": "1198 x 1313",
+        "content": "双击画布添加的新节点",
+        "imageTone": "soft",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/gen_1782458849891_jp8bynqmzo.png",
+        "objectFit": "contain",
+        "settings": {
+          "modelId": "cmroohfag2msfrykqadspaznz"
+        },
+        "prompt": "参考@图片1 @图片2生成电商详情页，产品白底图，功能介绍图 "
+      }
+    },
+    {
+      "id": "node-1782458638905-0",
+      "kind": "image",
+      "title": "图片节点",
+      "x": -143.96303385502523,
+      "y": 816.01290755082,
+      "width": 184,
+      "height": 262,
+      "meta": {
+        "dimensions": "1279 x 1706",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/img_1782458638428_4ap2t2079tn.jpg",
+        "objectFit": "contain",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmroohfag2msfrykqadspaznz"
+        }
+      }
+    },
+    {
+      "id": "node-1782458675786-0",
+      "kind": "image",
+      "title": "图片节点",
+      "x": -144.72060961260104,
+      "y": 1168.982604520517,
+      "width": 184,
+      "height": 262,
+      "meta": {
+        "dimensions": "1080 x 1440",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/img_1782458675397_tpu9vec92kf.jpg",
+        "objectFit": "contain",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmroohfag2msfrykqadspaznz"
+        }
+      }
+    },
+    {
+      "id": "node-1782458912284",
+      "kind": "text",
+      "title": "文本节点",
+      "x": 822.7494250338545,
+      "y": 326.4048805368815,
+      "width": 436,
+      "height": 315,
+      "meta": {
+        "content": "### 泰国丁香牙膏带货短视频脚本与 AI 渲染提示词\n\n**画幅标准**：9:16（抖音竖屏）\n**整体色调**：暖金日系与自然清新融合\n**叙事主线**：泰国风情引入 -> 泰服美女露齿笑 -> 产品卖点（草本护齿） -> 下单引导\n\n---\n\n#### 一、 分镜脚本与中文提示词 (Seedance/即梦标准)\n\n**镜头 1：氛围引入（2秒）**\n*   **画面**：夕阳下的泰国寺庙砖瓦小路，暖黄色余晖，镜头平滑缓慢向前推进。\n*   **提示词**：9:16，全景，夕阳下的泰国传统寺庙，红砖小路，金黄色日落光影，镜头平滑向前推进，电影级质感，4K超清。\n\n**镜头 2：主播亮相与痛点引入（3秒）**\n*   **画面**：泰服美女双手合十问候，随后正对镜头微笑说话，口型清晰，露出洁白牙齿。\n*   **提示词**：9:16，近景，一位身穿白色镶金边泰国传统服饰的年轻亚洲女性，头戴鸡蛋花，双手合十，正面看向镜头微笑说话，口型清晰动作连贯，牙齿洁白，暖色柔光箱侧逆光，哑光皮肤质感。\n\n**镜头 3：核心产品展示（3秒）**\n*   **画面**：美女手持 Rasyan 丁香牙膏，向镜头展示红绿色外包装。\n*   **提示词**：9:16，特写，女性双手手持泰国 Rasyan 丁香牙膏红绿包装盒，正对镜头展示，焦点锁定在产品包装上，背景微虚化，清晰展现牙膏盒上的草本图案，漫射自然光，高质量商品展示。\n\n**镜头 4：成分与功效特写（3秒）**\n*   **画面**：牙膏膏体特写，背景漂浮清新的丁香、芦荟和番石榴叶，体现天然草本。\n*   **提示词**：9:16，微距特写，牙刷上挤出适量的白色牙膏膏体，周围环绕着新鲜的丁香、芦荟叶片和绿叶，清新明亮色调，高清晰度，水润质感，缓慢旋转运镜。\n\n**镜头 5：信任转化（2秒）**\n*   **画面**：美女再次展现迷人自信的亮白笑容，单手指向屏幕下方购物车位置。\n*   **提示词**：9:16，中景，身穿泰国服饰的女性，笑容灿烂露出洁白牙齿，单手指向屏幕正下方，眼神与观众交流，动作自然流畅，柔光补光，画质清晰防畸变。\n\n---\n\n#### 二、 英文渲染关键词 (底层底层逻辑直出)\n\n**Shot 1 (Scene):** 9:16, wide shot, traditional Thai temple at sunset, red brick path, golden hour lighting, smooth forward tracking shot, cinematic, 4k resolution.\n**Shot 2 (Character):** 9:16, close-up, young Asian woman in white and gold traditional Thai dress, frangipani flower in hair, pressing hands together in greeting, smiling and talking clearly, white teeth, softbox side backlighting, matte skin texture.\n**Shot 3 (Product):** 9:16, close-up, woman holding Rasyan Herbal Clove Toothpaste in red and green packaging, focusing on product details, shallow depth of field, diffused natural light, commercial product shot.\n**Shot 4 (Ingredients):** 9:16, macro shot, white toothpaste on toothbrush, surrounded by fresh cloves and aloe vera leaves, bright and fresh color palette, watery texture, slow orbital camera movement.\n**Shot 5 (Call to Action):** 9:16, medium shot, Thai dressed woman smiling brightly showing white teeth, pointing index finger towards the bottom of the screen, eye contact, smooth motion, soft fill light, no distortion.\n\n---\n\n#### 三、 负面规避词库 (Negative Prompt)\n\nmutated, poorly drawn face, bad proportions, bad anatomy, missing fingers, extra fingers, blurry, watermark, text, flickering, distorted teeth, unnatural mouth movements, overexposed, bad lighting, low resolution.\n\n---\n\n#### 四、 落地与优化建议\n\n*   **口型同步**：AI 视频工具生成的原生口型很难精准匹配复杂台词。建议先生成动作连贯的视频底片，再使用 HeyGen、Wav2Lip 或剪映的“数字人/对口型”功能进行后期口型驱动。\n*   **产品一致性**：AI 生成特定包装（图 3 牙膏）易出现乱码或变形。建议在图生视频时使用原包装素材作为强参考（ControlNet/图像提示），或在后期剪辑中采用“实拍产品素材贴片+绿幕抠像”融合。\n*   **镜头节奏**：镜头 1-2 偏慢节奏营造氛围，镜头 3-4 切词卡点需明快（0.5-1秒一切），突出“草本”、“洁白”核心卖点。",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmpkubi1e001eiatvv9l7zg2b",
+          "characterId": "cmq6eyy0o00i6i5mxlrcihu4l",
+          "characterName": "短视频视听分镜设计师",
+          "deepThinking": true
+        },
+        "prompt": "用我提供给你的三个素材生成一个有情景的视频带货脚本，要求人物动作连贯，口播内容与口型一致，广告级视感，抖音 9:16 的竖屏标准",
+        "manualSize": true
+      }
+    },
+    {
+      "id": "node-1782459192672",
+      "kind": "video",
+      "title": "视频节点",
+      "x": 1306.0742828786006,
+      "y": 950.7403082160691,
+      "width": 244,
+      "height": 157,
+      "meta": {
+        "dimensions": "1280 x 720",
+        "content": "双击画布添加的新节点",
+        "imageTone": "soft",
+        "settings": {
+          "modelId": "cmpm7dmx00000cym8mrr4xy2p",
+          "params": {
+            "model": "mivideo_pro",
+            "ratio": "16:9",
+            "duration": "15",
+            "resolution": "720p"
+          }
+        },
+        "prompt": "@图片1 用模特做人物参考，@图片2 场景参考@图片3 产品，用分镜提示词生成视频",
+        "mediaUrl": "https://cdn.quantv.com/canvas/cmqt9qvkv03u41327bea40xtc/gen_1782460845933_k9ik21kuwq.mp4",
+        "objectFit": "contain"
+      }
+    },
+    {
+      "id": "node-1782463242933",
+      "kind": "video",
+      "title": "视频节点",
+      "x": -1089.7896706506933,
+      "y": 2509.268025595913,
+      "width": 180,
+      "height": 190,
+      "meta": {
+        "dimensions": "1024 x 1024",
+        "content": "双击画布添加的新节点",
+        "imageTone": "soft"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-1782454342858-0",
+      "from": "node-1782454342858-0",
+      "to": "node-1782452382539"
+    },
+    {
+      "id": "edge-1782458638905-0",
+      "from": "node-1782458638905-0",
+      "to": "node-1782458578068"
+    },
+    {
+      "id": "edge-1782458675786-0",
+      "from": "node-1782458675786-0",
+      "to": "node-1782458578068"
+    },
+    {
+      "id": "edge-1782458955546",
+      "from": "node-1782452382539",
+      "to": "node-1782458912284"
+    },
+    {
+      "id": "edge-1782458958381",
+      "from": "node-1782458521209",
+      "to": "node-1782458912284"
+    },
+    {
+      "id": "edge-1782458961877",
+      "from": "node-1782458578068",
+      "to": "node-1782458912284"
+    },
+    {
+      "id": "edge-1782459192672",
+      "from": "node-1782458912284",
+      "to": "node-1782459192672"
+    },
+    {
+      "id": "edge-1782459196905",
+      "from": "node-1782452382539",
+      "to": "node-1782459192672"
+    },
+    {
+      "id": "edge-1782459199976",
+      "from": "node-1782458521209",
+      "to": "node-1782459192672"
+    },
+    {
+      "id": "edge-1782459202721",
+      "from": "node-1782458578068",
+      "to": "node-1782459192672"
+    }
+  ],
+  "stickers": []
+}
